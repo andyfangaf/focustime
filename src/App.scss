@@ -1,0 +1,8 @@
+@import './foundation/styles/typography';
+@import './foundation/styles/colors';
+@import './foundation/styles/borders';
+
+body {
+  font-family: font-family();
+  font-size: font-size(body);
+}
